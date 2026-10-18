@@ -1,4 +1,4 @@
-# JEV 2.0A — Quant Research Engine
+# JEV 2.0 — Quant Research Engine
 
 This is a replacement for the original JEV prototype. It calculates actual technical features before sending a structured stock state to JEV.
 
