@@ -1,0 +1,5 @@
+yfinance
+pandas
+numpy
+python-dotenv
+typesafe_sdk
