@@ -1,5 +1,8 @@
 # JEV Powered Quant Research Engine
 
+## Diagram
+
+[![Architecture diagram of deshmukhsushil/learning-jev](https://gitdiagram.com/deshmukhsushil/learning-jev/diagram.png)](https://gitdiagram.com/deshmukhsushil/learning-jev?utm_source=readme&utm_medium=picture)
 
 ## Included
 - 1-year Yahoo Finance history
