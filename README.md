@@ -2,7 +2,8 @@
 
 ## Diagram
 
-[![Architecture diagram of deshmukhsushil/learning-jev](https://gitdiagram.com/deshmukhsushil/learning-jev/diagram.png)](https://gitdiagram.com/deshmukhsushil/learning-jev?utm_source=readme&utm_medium=picture)
+<img width="4507" height="5344" alt="image" src="https://github.com/user-attachments/assets/876b5ac9-af4e-4957-a35c-a75c0d2f2867" />
+
 
 ## Included
 - 1-year Yahoo Finance history
